@@ -147,6 +147,7 @@ header {
 	font-size: 1.7em;
 	letter-spacing: 3px;
 	font-weight: 400;
+	background: rgba(0, 0, 0, 0.32);
 }
 
 .banner-text-w3-agileits h2 {
@@ -156,6 +157,7 @@ header {
 	color: #fff;
 	position: relative;
 	margin: 0.2em 0 0.6em;
+	background: rgba(0, 0, 0, 0.32);
 }
 
 .banner-text-w3-agileits h2:after {
@@ -213,6 +215,7 @@ header {
 	font-size: 16px;
 	cursor: pointer;
 	margin-right: 10px;
+	background: rgba(0, 0, 0, 0.32);
 }
 
 .botton a:hover {
