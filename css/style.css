@@ -129,7 +129,7 @@ label {
 header {
 	padding: 22px 0px 0;
 	width: 100%;
-	background: rgba(0, 0, 0, 0.75);
+	background: rgba(0, 0, 0, 1);
 }
 
 .w3-slider {
@@ -141,7 +141,7 @@ header {
 .banner-text-w3-agileits {
 	margin-top: 15.5em;
 	float: right;
-	background: rgba(0, 0, 0, 0.75);
+	background: rgba(0, 0, 0, 1);
 }
 
 .banner-text-w3-agileits h5 {
@@ -178,8 +178,6 @@ header {
 	color: #337ab7;
 	font-size: 1em;
 	letter-spacing: 7px;
-	font-weight: 400;
-	background: rgba(0, 0, 0, 0.32);
 	padding: 4px 14px;
 }
 
