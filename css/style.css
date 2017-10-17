@@ -129,7 +129,7 @@ label {
 header {
 	padding: 22px 0px 0;
 	width: 100%;
-	background: rgba(0, 0, 0, 1);
+	background: rgba(0, 0, 0, 0.75);
 }
 
 .w3-slider {
@@ -141,7 +141,7 @@ header {
 .banner-text-w3-agileits {
 	margin-top: 15.5em;
 	float: right;
-	background: rgba(0, 0, 0, 1);
+	background: rgba(0, 0, 0, 0.75);
 }
 
 .banner-text-w3-agileits h5 {
@@ -587,7 +587,7 @@ h3.subheading-agileits-w3layouts {
 
 .services-grids p {
 	color: rgba(33, 33, 33, 0.8);
-	margin: 1em;
+	margin: 0 10px 0 10px;
 }
 
 .services-grids h6 {
@@ -936,9 +936,12 @@ h3.subheading-agileits-w3layouts {
 	padding: 15px 0 0 9px;
 }
 
+.activity-desc h4 {
+	padding: 0 0 0 9px;
+}
 .activity-desc p {
 	color: #9a9a9a;
-	margin: 10px;
+	margin: 0 10px 0 10px;
 }
 
 .activity-row {
