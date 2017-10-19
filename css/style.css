@@ -645,7 +645,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .about-border-w3ls {
-	position: absolute;
+	/*position: absolute;*/
 	padding: 24.95em 21em;
 	border: 24px solid #000;
 }
@@ -875,12 +875,12 @@ h3.subheading-agileits-w3layouts {
 }
 
 .p2 {
-	height: 86px;
+	height: 80px;
 	margin-top: 14px!important;
 }
 
 .p3 {
-	height: 72px;
+	height: 80px;
 	margin-top: 28px!important;
 }
 
@@ -994,6 +994,7 @@ h3.subheading-agileits-w3layouts {
 
 .display-grid-1-w3lsagile {
 	padding: 3em 2em;
+	background-color: white;
 }
 
 .activity-img.agileits.w3layouts h6 {
